@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vIKI5NhaF8p6zoDrin65atQmJY1oSj5Ict7Z9zaKZz7L9fU8cjC7YXNHekkhzF1xk5pw4CCDYvDfcJtrk9A4+g==",
+  "success": true,
+  "projectFilePath": "/Users/aaronkinfe/Projects/AzureGit/AzureGitProtest/AzureGitProtest.csproj",
+  "expectedPackageFiles": [
+    "/Users/aaronkinfe/.nuget/packages/microsoft.aspnetcore.openapi/7.0.20/microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
+    "/Users/aaronkinfe/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/aaronkinfe/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/aaronkinfe/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/aaronkinfe/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/aaronkinfe/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/aaronkinfe/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
